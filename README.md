@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil do GitHub! 👋
 * 📚 Contribuir para a comunidade de desenvolvedores
 
 ## Contato
-* 📧 Email: rubensfacco94@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/in/rubensfacco/
+* 📧 Email: **rubensfacco94@gmail.com**
+* 💼 [LinkedIn](https://www.linkedin.com/in/rubensfacco/)
 
 Fique à vontade para explorar meus repositórios e entrar em contato para discutir colaborações ou compartilhar ideias. Vamos codificar juntos! 🚀
