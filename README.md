@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil do GitHub! 👋
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwwo&show_icons=true&locale=en" alt="rwwo" /></p>
 
- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018ccb2d-9f7d-406a-97ef-c6b0c50b8790)](https://github.com/anuraghazra/github-readme-stats) 
+<a href="https://wakatime.com/@018ccb2d-9f7d-406a-97ef-c6b0c50b8790"><img src="https://wakatime.com/badge/user/018ccb2d-9f7d-406a-97ef-c6b0c50b8790.svg" alt="Total time coded since Jan 2 2024" /></a>
 
 
 ## Contato
