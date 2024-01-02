@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil do GitHub! 👋
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwwo&show_icons=true&locale=en" alt="rwwo" /></p>
 
-<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RubensFacco)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RubensFacco)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ## Contato
