@@ -1,16 +1,22 @@
-### Hi there 👋
+Olá, eu sou Rubens Facco
+Bem-vindo ao meu perfil do GitHub! 👋
 
-<!--
-**Rwwo/Rwwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+👨‍💻 Desenvolvedor C# apaixonado
+🌱 Sempre buscando aprender e aprimorar minhas habilidades
+🚀 Comprometido em escrever código limpo e eficiente
+🤝 Aberto a colaborações e feedbacks construtivos
 
-Here are some ideas to get you started:
+## Habilidades
+💻 Linguagens: C#, .NET core, PL/PgSQL
+🛠️ Banco de Dados: SQL Server, Entity Framework, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos Futuros
+🚀 Desenvolver projetos inovadores
+📚 Contribuir para a comunidade de desenvolvedores
+
+## Contato
+📧 Email: rubensfacco94@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/rubensfacco/
+
+Fique à vontade para explorar meus repositórios e entrar em contato para discutir colaborações ou compartilhar ideias. Vamos codificar juntos! 🚀
