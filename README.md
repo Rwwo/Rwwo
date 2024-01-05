@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil do GitHub! 👋
 
 
 ## Contato
-* 📧 Email: **rubensfacco94@gmail.com**
+* 📧 Email: **rubensfacco94@gmail.com** [rubensfacco94@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 * 💼 [LinkedIn](https://www.linkedin.com/in/rubensfacco/) : **https://www.linkedin.com/in/rubensfacco/**
 
 Fique à vontade para explorar meus repositórios e entrar em contato para discutir colaborações ou compartilhar ideias. Vamos codificar juntos! 🚀
