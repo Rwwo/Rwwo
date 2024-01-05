@@ -24,10 +24,11 @@ Bem-vindo ao meu perfil do GitHub! 👋
 
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rwwo&show_icons=true&locale=en" alt="rwwo" /></p>
 
+## Contatos:
 
-
-## Contato
-* 📧 Email: **rubensfacco94@gmail.com** [![linktree]([https://img.shields.io/badge/Acesse%20o%20meulinktree-39E09B?style=plastic&logo=linktree&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:rubensfacco94@gmail.com) 
-* 💼 [LinkedIn](https://www.linkedin.com/in/rubensfacco/) : **https://www.linkedin.com/in/rubensfacco/**
+<div>
+<a href = "mailto:rubensfacco94@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/rubensfacco)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Fique à vontade para explorar meus repositórios e entrar em contato para discutir colaborações ou compartilhar ideias. Vamos codificar juntos! 🚀
